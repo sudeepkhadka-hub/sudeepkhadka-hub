@@ -3,7 +3,7 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm sudip khadka</h1>
-<h3 align="center">A passionate frontend developer from nepal</h3>
+<h3 align="center">A passionate software from Nepal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1xcXI4ZnVncGhnZzc5MzIzajVxb3pqcTExOWhndTJ3ejBzMmxwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
